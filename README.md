@@ -73,7 +73,7 @@ Legal Requirements
 Sound Recognation may disclose your Personal Data in the good faith belief that such action is necessary to:
 
 To comply with a legal obligation
-To protect and defend the rights or property of Gods Of Egypt
+To protect and defend the rights or property of Sound Recognation
 To prevent or investigate possible wrongdoing in connection with the Service
 To protect the personal safety of users of the Service or the public
 To protect against legal liability
